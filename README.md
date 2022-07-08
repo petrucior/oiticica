@@ -1,11 +1,11 @@
-# futRobotPDF
-Futebol de robôs PDF
+# Equipe Oiticica
+- Futebol de robôs PDF na categoria IEEE Very Small Size Soccer (VSSS)
 
 # Integrantes
 
-- Petrucio Medeiros
 - Kauann Jacome
 - Maurício
 - Cristina
+- Petrucio Medeiros
 
 
